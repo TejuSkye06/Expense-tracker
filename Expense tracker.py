@@ -1,4 +1,4 @@
-name = input("Enter your name: ")  # Start of the program !
+name = input("Enter your name: ")  # Start of the program ! Enjoy
 age = input("Enter your age: ")
 
 print("\nHello", name + "!")
